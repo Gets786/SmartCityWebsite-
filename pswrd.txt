@@ -1,0 +1,6 @@
+Login Details for admin : admin/Test@123
+Login Details for user: anuj@gmail.com/Test@123
+
+
+UserSK
+71a9a384-a0b9-46ae-9e49-f0aa732bed69
